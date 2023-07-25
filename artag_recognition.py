@@ -101,5 +101,4 @@ while True:
 
     if cv.waitKey(1) == ord('q'):
         break
-print('=====================')
-print('Code:', ans)
+print(ans)
